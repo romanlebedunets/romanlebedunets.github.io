@@ -73,3 +73,14 @@ input[type=number]{
 				  margin: -10px 0 -10px 0;
 			    }
 				
+input[type=submit]:hover{
+				  padding: 5px;
+				  background: linear-gradient(to right, #f20707, #820a0a);  
+				  color: green;
+				  border: none;
+				  width: 100px;
+				  height: 30px;
+				  margin-top: 20px;
+				  }	
+				  
+				  
