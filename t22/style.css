@@ -1,0 +1,70 @@
+main{
+	background:url("divback.png") #e8f0e5 ;
+	background-size: 50%;
+	background-repeat: no-repeat;
+	width: 98%;
+	background-position: 95%;
+	height: 400px;
+}
+	
+a{
+ text-decoration: none;
+ color: black;
+ font-size: 24px; 
+}
+ 
+.active{
+	border-bottom: 2px solid black;
+	   } 
+	   
+nav>a:hover{
+	border-bottom: 2px solid black;
+	   }   
+	   
+.logo{
+	margin: 0px 0px 100px;
+	font-size: 65px;
+}	   
+
+.button{
+	border:none;
+	background-color: black;
+	border-radius: 40px;
+	color:white;
+	padding: 5px 15px;
+	font-size: 37px;
+}
+
+.btn{
+	margin-top: 50px;
+}
+
+.text{
+	width:50%;
+	float:left;
+	height:400px;
+}
+
+.button:hover{
+	box-shadow: 0 0 10px black;
+}
+
+article{
+	background: linear-gradient(to right, gray, black);
+	height:400px;
+	color:white;
+}
+
+.one{
+	float: left;
+	height: 100px;
+	width: 50%;
+}
+
+.two{
+	float: left;
+	height: 100%;
+	width: 50%;
+	color: white;
+	margin-top: 75px;
+}
